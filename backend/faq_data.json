@@ -1,0 +1,218 @@
+[
+    {
+      "question": "Where do I login to my online course?",
+      "answer": "Login to HuskyCT with your NetID and password by going to https://lms.uconn.edu."
+    },
+    {
+      "question": "Hi",
+      "answer": "Hello fellow husky!"
+    },
+    {
+      "question": "Hello",
+      "answer": "Hello!"
+    },
+    {
+      "question": "Thanks",
+      "answer": "No problem!"
+    },
+    {
+      "question": "Thank you",
+      "answer": "No problem!"
+    },
+    {
+      "question": "What is the basketball capital",
+      "answer": "UCONN is the Basketball Capital of the World!"
+    },
+    {
+      "question": "What is the basketball capital of the world",
+      "answer": "UCONN is the Basketball Capital of the World! Let's go Huskies!"
+    },
+    {
+      "question": "How do I obtain a NetID or reset my password?",
+      "answer": "Check the ITS NetID website for information on NetID accounts."
+    },
+    {
+      "question": "What should I do if I am accessing my online course from a foreign country?",
+      "answer": "Some foreign countries may limit or prohibit access to certain US websites, including YouTube, ProctorU.com, HuskyCT.uconn.edu, and other sites required for completing your online course. It is your responsibility to review the course syllabus ahead of time and understand any limitations there may be in accessing required content. While using UConn’s VPN might or might not allow you to gain access to HuskyCT and other related content, it is your responsibility to be aware of and abide by any laws and regulations where you are located."
+    },
+    {
+      "question": "Who do I contact for technical support in my HuskyCT course?",
+      "answer": "ITS Help Center provides technical support for HuskyCT. View the ITS Help Center website for contact hours, email, and phone information. Self-help options are available via the IT Knowledge Base. After hours and weekend support can be found on the HuskyCT 24x7 Course Support site. ITS Help Center information is also available from the Student Help tab within HuskyCT."
+    },
+    {
+      "question": "How can I receive help with Student Administration System (SAS) (e.g., adding, dropping, or registering for courses, reviewing my schedule etc.)?",
+      "answer": "The Technology Support Center provides technical support for Student Administration System. View the ITS Help Center website for contact hours, email, and phone information. View the SAS Student Guides."
+    },
+    {
+      "question": "Where can I download software required by my course?",
+      "answer": "UConn ITS provides support with specific UConn licensed software. Check the ITS Software page for downloadable software."
+    },
+    {
+      "question": "Who do I contact for difficulty accessing readings or streaming videos from the UConn Library?",
+      "answer": "See the Library's Help page to chat or to find library contact information."
+    },
+    {
+      "question": "How do I access the UConn library system for academic help in my online course?",
+      "answer": "Search for books, ebooks, media, journals, etc. at the UConn Library website. Start guide for undergraduate students. Start guide for graduate students."
+    },
+    {
+      "question": "Where can I find academic support for my online course?",
+      "answer": "The following tutoring services are available to UConn students: Academic Achievement Center, Quantitative Learning Center, Writing Center."
+    },
+    {
+      "question": "How do I contact the Registrar?",
+      "answer": "For information about services provided by the Registrar, visit their home page. Check the Academic Calendar page for dates and deadlines in current and upcoming semesters."
+    },
+    {
+      "question": "What should I do if I need an accommodation in my online course?",
+      "answer": "To request accommodations for an online course, please contact the Center for Students with Disabilities."
+    },
+    {
+      "question": "Where can I find information on career development?",
+      "answer": "The Center for Career Development provides services for both undergraduate and graduate students."
+    },
+    {
+      "question": "I’m enrolled in an online graduate program, where can I find more information?",
+      "answer": "The Graduate School site provides information for graduate students including current course offerings, registration, and more. Please email eCampus (ecampus@uconn.edu) if you have further questions. Students newly enrolled in an online course should review the information on the Enrolled Students page."
+    },
+    {
+      "question": "How can I declare or change my major at UConn?",
+      "answer": "To declare or change your major, submit the online program change form available through your advising center. For CLAS students, visit the CLAS Academic Services Center website."
+    },
+    {
+      "question": "What is the difference between a double major and an additional degree?",
+      "answer": "A double major involves two majors within the same school or college, resulting in one degree. An additional degree involves majors in different schools or colleges and requires at least 18 additional credits, resulting in two separate degrees."
+    },
+    {
+      "question": "How do I find my academic advisor?",
+      "answer": "Your assigned advisor's contact information is listed in your Student Admin portal under the 'Academic Progress & Advising' section."
+    },
+    {
+      "question": "What should I do if I need to reschedule a final exam?",
+      "answer": "If you have exam conflicts or need to reschedule, contact the Dean of Students Office for assistance and review the Final Exam Rescheduling guidelines."
+    },
+    {
+      "question": "How can I apply for in-state tuition?",
+      "answer": "Submit the Application for In-State Tuition along with supporting documents to the Dean of Students Office by July 1 for fall or December 1 for spring. It's recommended to consult with the office before applying."
+    },
+    {
+      "question": "What is the Common Curriculum at UConn?",
+      "answer": "The Common Curriculum is UConn's updated general education program, effective for students enrolling in Summer 2025 or later. It includes Topics of Inquiry and competencies designed to provide a well-rounded education."
+    },
+    {
+      "question": "Can I switch to the Common Curriculum if I enrolled before Summer 2025?",
+      "answer": "Yes, students enrolled prior to Summer 2025 can opt into the Common Curriculum. Consult your academic advisor to understand the implications and process."
+    },
+    {
+      "question": "What is the difference between Student Labor and Federal Work-Study?",
+      "answer": "Student Labor positions are open to all students and funded by university departments. Federal Work-Study positions are need-based and funded by the federal government, requiring eligibility through the FAFSA."
+    },
+    {
+      "question": "How do I find on-campus jobs?",
+      "answer": "Visit the UConn Student Jobs website to search and apply for available Student Labor and Work-Study positions across various departments."
+    },
+    {
+      "question": "Is Orientation mandatory for new students?",
+      "answer": "Yes, Orientation is required for all first-time, degree-seeking students at UConn, including both first-year and transfer students."
+    },
+    {
+      "question": "What should I do if I can't attend any of the scheduled Orientation dates?",
+      "answer": "Orientation is mandatory. If you have an unavoidable conflict, contact the Orientation staff at your campus as soon as possible to discuss your options."
+    },
+    {
+      "question": "Can I live off-campus as a freshman?",
+      "answer": "Freshmen are generally required to live on campus unless they qualify for an exemption. Refer to the Residency Requirement information on the Residential Life website for details."
+    },
+    {
+      "question": "Where can I find off-campus housing options?",
+      "answer": "Use the Off-Campus and Commuter Student Services housing site to search for apartments, rentals, and rooms near the university."
+    },
+    {
+      "question": "How do I obtain a NetID or reset my password?",
+      "answer": "Visit the ITS NetID website to manage your NetID, including obtaining a new one or resetting your password."
+    },
+    {
+      "question": "Where can I download software required for my courses?",
+      "answer": "UConn ITS provides access to various licensed software. Visit the ITS Software page to download the software you need."
+    },
+    {
+      "question": "What are the core required courses for the Computer Science major at UConn?",
+      "answer": "The core required courses include CSE 1010 (Introduction to Computing for Engineers), CSE 2050 (Data Structures and Object-Oriented Design), CSE 2500 (Introduction to Discrete Systems), CSE 3000 (Contemporary Issues in Computer Science and Engineering), CSE 3100 (Systems Programming), CSE 3140 (Cybersecurity Lab), CSE 3150 (C++ Essentials) or CSE 3160 (Functional Programming Fundamentals), CSE 3500 (Algorithms and Complexity), CSE 3666 (Introduction to Computer Architecture), CSE 4939W (Computer Science and Engineering Design Project I), and CSE 4940 (Computer Science and Engineering Design Project II)."
+    },
+    {
+      "question": "How many total credits are required to graduate with a BS in Computer Science at UConn?",
+      "answer": "A minimum of 120 credits are required to graduate with a Bachelor of Science in Computer Science."
+    },
+    {
+      "question": "What concentrations are available within the Computer Science major?",
+      "answer": "Available concentrations include Algorithms and Theory, Bioinformatics, Computational Data Analytics, Cybersecurity, Naval Science and Technology, Software Design and Development, Software Design for Mobile Computing, Systems and Networks, Unspecialized, and Individually Designed."
+    },
+    {
+      "question": "What mathematics courses are required for the Computer Science major?",
+      "answer": "Required mathematics courses include MATH 2110Q (Multivariable Calculus), MATH 2210Q (Applied Linear Algebra), and one of the following: MATH 3160 (Probability), STAT 3025Q (Statistical Methods), STAT 3345Q (Probability Models for Engineers), or STAT 3375Q (Introduction to Mathematical Statistics I)."
+    },
+    {
+      "question": "Are there any science course requirements for the Computer Science major?",
+      "answer": "Yes, students must complete a two-semester laboratory course sequence in either Chemistry or Physics, and one additional science course from a different department than the sequence chosen."
+    },
+    {
+      "question": "What is the Plan of Study requirement for Computer Science students?",
+      "answer": "All Engineering students in the first semester of their junior year, or for transfer students in their second semester at UConn (whichever is later), must prepare a written preliminary Plan of Study form documenting the coursework they intend to take to satisfy degree requirements. A final Plan of Study must be submitted as soon as possible after registering for the final semester of coursework."
+    },
+    {
+      "question": "Can students design their own concentration within the Computer Science major?",
+      "answer": "Yes, students may propose an individually-designed concentration to fit their academic or career interests. This requires a minimum of 12 credits at the 2000 level or above, proposed by the student and approved by the student's advisor and the CSE Department Undergraduate Committee."
+    },
+    {
+      "question": "What is the Unspecialized concentration in the Computer Science major?",
+      "answer": "The Unspecialized concentration requires students to take required courses from three different concentrations, plus any other 2000+ level CSE course not used to fulfill another requirement."
+    },
+    {
+      "question": "Where can I find the official course descriptions for Computer Science and Engineering courses?",
+      "answer": "Official course descriptions can be found in the UConn Catalog under the Computer Science and Engineering section: https://catalog.uconn.edu/undergraduate/courses/cse/"
+    },
+    {
+      "question": "Is the Computer Science program at UConn accredited?",
+      "answer": "Yes, the Computer Science program is accredited by the Computing Accreditation Commission of ABET."
+    },
+    {
+      "question": "What classes should I take freshman year?",
+      "answer": "Freshman Year:\nSemester 1: CSE 1010, MATH 1131Q, Lab Science, Gen Ed\nSemester 2: CSE 2050, MATH 1132Q, Lab Science, ENGL 1007"
+    },
+    {
+      "question": "What classes should I take sophomore year?",
+      "answer": "Sophomore Year:\nSemester 3: CSE 2500, CSE 3140, MATH 2110Q, Lab Science, Gen Ed\nSemester 4: CSE 3100, CSE 3500, PHIL 1104, Free Elective, Gen Ed"
+    },
+    {
+      "question": "What classes should I take junior year?",
+      "answer": "Junior Year:\nSemester 5: CSE 3150 or 3160, CSE 3666, Concentration Course, Probability/Statistics, Free Elective\nSemester 6: CSE 3000, Concentration Course, CSE Elective, Gen Ed, Free Elective"
+    },
+    {
+      "question": "What classes should I take senior year?",
+      "answer": "Senior Year:\nSemester 7: CSE 4939W, Concentration Course, Free Electives\nSemester 8: CSE 4940, Concentration Course, Free Electives"
+    },
+    {
+      "question": "Where can I find the CSE course plan?",
+      "answer": "You can view the full UConn CSE Course Plan PDF here: https://computing-engineering.media.uconn.edu/wp-content/uploads/sites/3840/2025/03/CS-25-26-common-map_Remediated.pdf"
+    },
+    {
+      "question": "What classes should I take freshman year?",
+      "answer": "Freshman Year:\nSemester 1: CSE 1010, MATH 1131Q, Lab Science, ENGL 1007, UNIV 1800\nSemester 2: CSE 1729, MATH 1132Q, Lab Science, Gen Ed (Content Area I or II)"
+    },
+    {
+      "question": "What classes should I take sophomore year?",
+      "answer": "Sophomore Year:\nSemester 3: CSE 2050, CSE 2500, MATH 2110Q, Gen Ed\nSemester 4: CSE 2100, CSE 2300W, MATH 2210Q, Gen Ed (Content Area IV or elective)"
+    },
+    {
+      "question": "What classes should I take junior year?",
+      "answer": "Junior Year:\nSemester 5: CSE 3500, STAT 3025Q or 3345Q, CSE Elective, Gen Ed\nSemester 6: CSE 3000, CSE Elective, CSE Elective (3000+), Gen Ed"
+    },
+    {
+      "question": "What classes should I take senior year?",
+      "answer": "Senior Year:\nSemester 7: CSE 4939W, CSE Elective (3000+), Open Elective, Gen Ed\nSemester 8: CSE 4940, CSE Elective (3000+), Open Elective, Free Elective"
+    },
+    {
+      "question": "Where can I find the CSE course plan?",
+      "answer": "You can view the full UConn CSE Course Plan PDF here: https://computing-engineering.media.uconn.edu/wp-content/uploads/sites/3840/2025/03/CS-25-26-common-map_Remediated.pdf"
+    }
+]

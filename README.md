@@ -1,0 +1,1 @@
+AI-powered chat bot for UConn Students. This chatbot will extract frequently asked questions from UConn students and generate answers for them. This chat bot will serve as a guide and an assistant for a variety of questions.

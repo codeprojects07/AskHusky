@@ -5,8 +5,13 @@ from chatbot import load_faq, find_answer, generate_schedule
 app = Flask(__name__)
 CORS(app)
 
+# Load the FAQ data once when the server starts
 faq_data = load_faq()
 last_question_type = {"pending_schedule": False}
+
+@app.route('/')
+def home():
+    return "AskHusky backend is running!"
 
 @app.route('/ask', methods=['POST'])
 def ask():
@@ -28,4 +33,5 @@ def ask():
     return jsonify({"answer": answer})
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    # Host 0.0.0.0 allows access on Render; port 5000 is standard
+    app.run(host='0.0.0.0', port=5000)
